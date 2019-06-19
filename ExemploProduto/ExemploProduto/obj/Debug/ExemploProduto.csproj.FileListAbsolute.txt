@@ -1,0 +1,7 @@
+E:\Estudos csharp\treinamento\ExemploProduto\ExemploProduto\bin\Debug\ExemploProduto.exe.config
+E:\Estudos csharp\treinamento\ExemploProduto\ExemploProduto\bin\Debug\ExemploProduto.exe
+E:\Estudos csharp\treinamento\ExemploProduto\ExemploProduto\bin\Debug\ExemploProduto.pdb
+E:\Estudos csharp\treinamento\ExemploProduto\ExemploProduto\obj\Debug\ExemploProduto.csprojAssemblyReference.cache
+E:\Estudos csharp\treinamento\ExemploProduto\ExemploProduto\obj\Debug\ExemploProduto.csproj.CoreCompileInputs.cache
+E:\Estudos csharp\treinamento\ExemploProduto\ExemploProduto\obj\Debug\ExemploProduto.exe
+E:\Estudos csharp\treinamento\ExemploProduto\ExemploProduto\obj\Debug\ExemploProduto.pdb

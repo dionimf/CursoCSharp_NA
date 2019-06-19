@@ -1,0 +1,6 @@
+E:\Estudos csharp\treinamento\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+E:\Estudos csharp\treinamento\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+E:\Estudos csharp\treinamento\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+E:\Estudos csharp\treinamento\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+E:\Estudos csharp\treinamento\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+E:\Estudos csharp\treinamento\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

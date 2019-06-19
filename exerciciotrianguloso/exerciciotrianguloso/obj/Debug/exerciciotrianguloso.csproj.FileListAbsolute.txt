@@ -1,0 +1,7 @@
+E:\Estudos csharp\treinamento\exerciciotrianguloso\exerciciotrianguloso\bin\Debug\exerciciotrianguloso.exe.config
+E:\Estudos csharp\treinamento\exerciciotrianguloso\exerciciotrianguloso\bin\Debug\exerciciotrianguloso.exe
+E:\Estudos csharp\treinamento\exerciciotrianguloso\exerciciotrianguloso\bin\Debug\exerciciotrianguloso.pdb
+E:\Estudos csharp\treinamento\exerciciotrianguloso\exerciciotrianguloso\obj\Debug\exerciciotrianguloso.csprojAssemblyReference.cache
+E:\Estudos csharp\treinamento\exerciciotrianguloso\exerciciotrianguloso\obj\Debug\exerciciotrianguloso.csproj.CoreCompileInputs.cache
+E:\Estudos csharp\treinamento\exerciciotrianguloso\exerciciotrianguloso\obj\Debug\exerciciotrianguloso.exe
+E:\Estudos csharp\treinamento\exerciciotrianguloso\exerciciotrianguloso\obj\Debug\exerciciotrianguloso.pdb
